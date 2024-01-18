@@ -1,0 +1,8 @@
+backend/node_modules
+backend/.env
+group-34-project/node_modules
+/.github
+/public
+products.json
+package.json
+package-lock.json
